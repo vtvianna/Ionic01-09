@@ -1,0 +1,19 @@
+{
+  "produtos": [
+    {
+      "item": "Arroz",
+      "quant": "20 kg",
+      "id": 1
+    },
+    {
+      "item": "batata",
+      "quant": "5 kg",
+      "id": 2
+    },
+    {
+      "item": "amora",
+      "quant": "5 kg",
+      "id": 4
+    }
+  ]
+}
